@@ -1,0 +1,1 @@
+{"CONFIDENTIAL_DOCS": ["site:btn.co.id ext:pdf \"rahasia\""], "EXPOSED_DIR": ["site:btn.co.id intitle:\"index of\""], "TEST": ["site:pastebin.com \"btn.co.id\" \"password\" OR \"login\"", "site:*.btn.co.id", "site:btn.co.id inurl:login OR intitle:\"login\" OR inurl:admin", "site:btn.co.id ext:doc OR ext:docx OR ext:xls OR ext:xlsx OR ext:ppt OR ext:pptx", "site:btn.co.id"]}
